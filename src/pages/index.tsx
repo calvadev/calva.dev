@@ -7,7 +7,7 @@ export default function Home() {
         My name is Cristian Alvarez-Hernandez.
       </p>
       <p className="py-1 px-3 mb-3">
-        I am currently working as a software engineer in Seattle, WA and have a deep interest in freedom-tech, particulary Bitcoin and Nostr.
+        I am currently working as a software engineer in Seattle, WA, U.S.A. and have a deep interest in freedom-tech, particulary Bitcoin and Nostr.
       </p>
       <p className="py-1 px-3 mb-3">
         I believe that Bitcoin has the potential to open up previously ignored or irrelevant countries to the rest of the world in regards to financial access and tapping into their human capital. I think is the most open and important free market monetary system that has existed in the history of humanity.
@@ -30,7 +30,7 @@ export default function Home() {
           <li>- My favorite movies are The Shawshank Redemption, The Social Network, Whiplash, Once Upon a Time in Hollywood, and One Flew Over the Cuckoo's Nest</li>
           <li>- My favorite books are Zero to One, Great Expectations, Animal Farm, The Network State, and The Creative Act</li>
           <li>- I put 100% of the money that does not go towards my living expenses into Bitcoin</li>
-          <li>- If I lived close enough to a casino I would have a gambling addiction</li>
+          <li>- If I lived close enough to a casino I could potentially develop a gambling addiction</li>
           <li>- I am obsessed with "barefoot"/grounding shoes and sandals</li>
         </ul>
       </div>

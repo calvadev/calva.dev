@@ -22,14 +22,14 @@ export default function resume() {
         </em>
         {' | '}
         <em>
-          Bengalaru, Karnataka, India (Remote)
+          Bengaluru, Karnataka, India (Remote)
         </em>
         <ul className="ml-4">
           <li>
             - Contributed on building a web-based software suite to make it easier for international startups to manage legal and financial requirements as their companies grow
           </li>
           <li>
-            - Used <strong>Next.js</strong> and <strong>Prisma</strong> to develop full-stack applications that streamline the process to get from product conception to fundraising
+            - Used <strong>Next.js</strong> and <strong>Prisma</strong> to develop a full-stack application that streamlines the process for startups to get from product conception to fundraising
           </li>
           <li>
             - Focused on a cap table management application to make it easier for founders and investors to handle exits and vesting of shares
