@@ -4,7 +4,6 @@ const nextConfig = {
   async headers() {
         return [
             {
-                // matching all API routes
                 source: "/.well-known/nostr.json",
                 headers: [
                     { key: "Access-Control-Allow-Origin", value: "*" },
