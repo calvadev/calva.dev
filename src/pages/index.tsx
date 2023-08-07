@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import calvadev from '/calvadevbtc.jpg'
+import calvadev from './calvadevbtc.jpg'
 
 export default function Home() {
   return (
