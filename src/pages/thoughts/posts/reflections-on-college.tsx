@@ -7,7 +7,7 @@ export default function reflectionsOnCollege() {
         </strong>
       </h1>
       <h1 className="px-3 text-lg text-gray-500">
-        Or whether or not it's worth it
+        Or whether or not it&apos;s worth it
       </h1>
     </div>
   )

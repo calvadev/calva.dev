@@ -143,7 +143,7 @@ export default function resume() {
       </div>
       <div className="py-1 px-3 mb-3">
         <Link href="https://www.dominos.com/">
-          Domino's
+          Domino&apos;s
         </Link>
         {' | '}
         <em>
