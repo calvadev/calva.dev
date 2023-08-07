@@ -20,7 +20,7 @@ export default function Home() {
         Outside of full-time work, I have been focusing on building a Nostr marketplace client called Shopstr and on contributing to Cashu, which is a Chaumain ecash system built for Bitcoin.
       </p>
       <div className="w-1/2 mx-auto my-4">
-        <Image alt="" className="w-full" src="/calvadevbtc.jpg" />
+        <Image alt="" fill={true} src="/calvadevbtc.jpg" />
       </div>
       <div className="py-1 px-3 mb-3">
         Some facts about me:
