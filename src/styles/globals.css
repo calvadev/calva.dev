@@ -11,6 +11,9 @@
 body {
   color: rgb(var(--foreground-rgb));
   font-family: "Hack", monospace;
+}
+
+p {
   -webkit-text-size-adjust: none;
   text-size-adjust: none;
 }
