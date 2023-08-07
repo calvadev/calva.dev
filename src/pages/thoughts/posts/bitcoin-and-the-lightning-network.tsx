@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import btcLN from '../../bitcoin-and-the-lightning-network.jpg'
 
 export default function bitcoinAndTheLightingNetwork() {
   return(
@@ -12,7 +13,7 @@ export default function bitcoinAndTheLightingNetwork() {
         My experience using the greatest monetary network in the world
       </h1>
       <div className="w-1/2 mx-auto my-4">
-        <Image alt="" fill={true} src="../../bitcoin-and-the-lightning-network.jpg" />
+        <Image alt="" src={btcLN} />
       </div>
       <h1 className="py-2 px-3 text-xl">
         <strong>

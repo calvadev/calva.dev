@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import comingSoon from '../../coming-soon.jpg'
 
 export default function comingSoon() {
   return(
@@ -12,7 +13,7 @@ export default function comingSoon() {
         Thoughts
       </h1>
       <div className="w-1/2 mx-auto my-4">
-        <Image alt="" fill={true} src="../../coming-soon.jpg" />
+        <Image alt="" src={comingSoon} />
       </div>
       <p className="ml-3 mb-3">
         <strong>This is Thoughts</strong>, a newsletter about my takes on anything I can wrap my mind around. I plan on making this a monthly thing and will be giving my analysis on books, podcasts, and articles that I have read and/or listened to, as well as my own personal anecdotes and views on subjects I am interested in. I don’t have any exact plans with this blog apart from it acting as a collection of my thoughts. I have no substantial experience with writing or any form of content creation, but I’m excited to get started with this experiment. I hope you all tag along for the journey.
