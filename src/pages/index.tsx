@@ -7,7 +7,7 @@ export default function Home() {
         My name is Cristian Alvarez-Hernandez.
       </p>
       <p className="py-1 px-3 mb-3">
-        I am currently working as a software engineer in Seattle, WA, U.S.A. and have a deep interest in freedom-tech, particulary Bitcoin and Nostr.
+        I am currently working as a software engineer in Seattle, WA, U.S.A. and have a deep interest in freedom tech, particulary Bitcoin and Nostr.
       </p>
       <p className="py-1 px-3 mb-3">
         I believe that Bitcoin has the potential to open up previously ignored or irrelevant countries to the rest of the world in regards to financial access and tapping into their human capital. I think is the most open and important free market monetary system that has existed in the history of humanity.
