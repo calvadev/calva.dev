@@ -11,6 +11,8 @@
 body {
   color: rgb(var(--foreground-rgb));
   font-family: "Hack", monospace;
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
 }
 
 span {
