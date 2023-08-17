@@ -24,7 +24,7 @@ export default function Home() {
       <div className="py-1 px-3 mb-3">
         Some facts about me:
         <ul className="ml-4">
-          <li>- I was born in Los Angeles, CA and raised in Houston, TX</li>
+          <li>- I was born in Los Angeles, CA, U.S.A. and raised in Houston, TX, U.S.A.</li>
           <li>- I know English, Spanish, and have been learning Portuguese</li>
           <li>- I have been to 13 countries (aiming for 16 by the end of the year)</li>
           <li>- My favorite movies are The Shawshank Redemption, The Social Network, Whiplash, Once Upon a Time in Hollywood, and One Flew Over the Cuckoo&apos;s Nest</li>
