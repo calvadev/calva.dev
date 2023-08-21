@@ -243,7 +243,7 @@ export default function resume() {
           Aug 2019 - May 2023
         </em>
         <p className="ml-4 mb-2">
-          - Graduated with a B.S. degree in Computer Engineering and a cumulative GPA of 3.473 on a 4 PT scale
+          - Graduated with a cumulative GPA of 3.473 on a 4 PT scale
         </p>
         <p className="ml-4">
           <em>
@@ -307,7 +307,7 @@ export default function resume() {
             - Developing an API and UI with <strong>TypeScript</strong> and <strong>React</strong> that interacts with Nostr relays to handle account management and note propagation
           </li>
           <li>
-            - Working with <strong>Cashu</strong> and the <strong>Lightning Network</strong> to facilitate instant cross-border payments
+            - Working with <strong>Cashu</strong> and the <strong>Lightning Network</strong> to facilitate instant, anonymized cross-border payments
           </li>
           <li>
             - Designing a native wallet to simplify payment UX
