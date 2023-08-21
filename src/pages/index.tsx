@@ -1,6 +1,6 @@
 import Link from 'next/link'
 
-export default function Home() {
+export default function About() {
   return (
     <div className="w-full h-full p-3">
       <p className="py-1 px-3 mb-3">
@@ -27,8 +27,9 @@ export default function Home() {
           <li>- I was born in Los Angeles, CA, U.S.A. and raised in Houston, TX, U.S.A.</li>
           <li>- I know English, Spanish, and have been learning Portuguese</li>
           <li>- I have been to 13 countries (aiming for 16 by the end of the year)</li>
-          <li>- My favorite movies are The Shawshank Redemption, The Social Network, Whiplash, Once Upon a Time in Hollywood, and One Flew Over the Cuckoo&apos;s Nest</li>
           <li>- My favorite books are Zero to One, Great Expectations, Animal Farm, The Network State, and The Creative Act</li>
+          <li>- My favorite movies are The Shawshank Redemption, The Social Network, Whiplash, Once Upon a Time in Hollywood, and One Flew Over the Cuckoo&apos;s Nest</li>
+          <li>- My favorite shows are The Rehearsal, BoJack Horseman, Fargo, Hamilton&apos;s Pharmacopeia, and Lost</li>
           <li>- I put 100% of the money that does not go towards my living expenses into Bitcoin</li>
           <li>- If I lived close enough to a casino I could potentially develop a gambling addiction</li>
           <li>- I am obsessed with &quot;barefoot&quot;/grounding shoes and sandals</li>
