@@ -26,7 +26,7 @@ export default function resume() {
         </em>
         <ul className="ml-4">
           <li>
-            - Contributed on building a web-based software suite to make it easier for international startups to manage legal and financial requirements as their companies grow
+            - Contributed to building a web-based software suite to make it easier for international startups to manage legal and financial requirements as their companies grow
           </li>
           <li>
             - Used <strong>Next.js</strong> and <strong>Prisma</strong> to develop a full-stack application that streamlines the process for startups to get from product conception to fundraising
