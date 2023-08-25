@@ -10,6 +10,9 @@ export default function thoughts() {
         </Link>
         {' '}to stay regularly updated with my posts as they come out.
       </p>
+      <div className="w-1/2 mx-auto my-4">
+        <img alt="" src="../../thoughts.jpg" />
+      </div>
       <ul className="ml-4">
           <li>
             -{' '}
