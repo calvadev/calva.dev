@@ -25,6 +25,12 @@ export default function Document() {
           </span>
           {' | '}
           <span>
+            <Link href="https://shopstr.store">
+              Shopstr
+            </Link>
+          </span>
+          {' | '}
+          <span>
             <Link href="/thoughts">
               Thoughts
             </Link>
