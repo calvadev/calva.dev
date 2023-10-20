@@ -4,4 +4,4 @@ run = "cd src && npm run dev"
 channel = "stable-22_11"
 
 [deployment]
-deploymentTarget = "static"
+run = ["sh", "-c", "cd src && npm run dev"]
