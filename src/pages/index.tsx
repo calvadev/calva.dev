@@ -26,8 +26,8 @@ export default function About() {
         Outside of full-time work, I have been focused on building a Nostr
         marketplace client called{" "}
         <Link href="https://shopstr.store/">Shopstr</Link> and on contributing
-        to <Link href="https://cashu.space/">Cashu</Link>, which is a Chaumain
-        ecash system built for Bitcoin.
+        to <Link href="https://cashu.space/">Cashu</Link>, a Chaumain ecash
+        system built for Bitcoin.
       </p>
       <div className="w-1/2 mx-auto my-4">
         <img alt="" src="/calvadevbtc.jpg" />
