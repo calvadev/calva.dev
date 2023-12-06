@@ -41,7 +41,7 @@ export default function About() {
           </li>
           <li>- I know English, Spanish, and have been learning Portuguese</li>
           <li>
-            - I have been to 13 countries (aiming for 16 by the end of the year)
+            - I have been to 15 countries
           </li>
           <li>
             - My favorite books are Zero to One, Great Expectations, Animal
