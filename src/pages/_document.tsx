@@ -35,7 +35,7 @@ export default function Document() {
           </span>
           {" | "}
           <span>
-            <Link href="https://nostr.com/npub16dhgpql60vmd4mnydjut87vla23a38j689jssaqlqqlzrtqtd0kqex0nkq">
+            <Link href="https://njump.me/npub16dhgpql60vmd4mnydjut87vla23a38j689jssaqlqqlzrtqtd0kqex0nkq">
               Nostr
             </Link>
           </span>
