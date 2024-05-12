@@ -30,7 +30,7 @@ export default function About() {
         system built for Bitcoin.
       </p>
       <div className="w-1/2 mx-auto my-4">
-        <img alt="" src="/calvadevbtc.jpg" />
+        <img alt="" src="/calvadev.jpg" />
       </div>
       <div className="py-1 px-3 mb-3">
         Some facts about me:
