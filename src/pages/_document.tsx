@@ -15,10 +15,6 @@ export default function Document() {
           </span>
           {" | "}
           <span>
-            <Link href="/resume">Resume</Link>
-          </span>
-          {" | "}
-          <span>
             <Link href="https://shopstr.store">Shopstr</Link>
           </span>
           {" | "}
@@ -31,13 +27,17 @@ export default function Document() {
           </span>
           {" | "}
           <span>
+            <Link href="https://njump.me/npub16dhgpql60vmd4mnydjut87vla23a38j689jssaqlqqlzrtqtd0kqex0nkq">
+              Nostr
+            </Link>
+          </span>
+          {" | "}
+          <span>
             <Link href="https://t.me/calvadev">Telegram</Link>
           </span>
           {" | "}
           <span>
-            <Link href="https://njump.me/npub16dhgpql60vmd4mnydjut87vla23a38j689jssaqlqqlzrtqtd0kqex0nkq">
-              Nostr
-            </Link>
+            <Link href="/resume">Resume</Link>
           </span>
           {" | "}
           <span>

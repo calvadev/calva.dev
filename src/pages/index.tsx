@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function About() {
   return (
     <div className="w-full h-full p-3">
-      <p className="py-1 px-3 mb-3">My name is Cristian Alvarez-Hernandez.</p>
+      <p className="py-1 px-3 mb-3">Hi 👋, I'm calvadev!</p>
       <p className="py-1 px-3 mb-3">
         I am currently working as the CEO of{" "}
         <Link href="https://shopstr.store/">Shopstr</Link>, a Nostr marketplace
