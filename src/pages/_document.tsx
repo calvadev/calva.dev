@@ -41,10 +41,6 @@ export default function Document() {
           </span>
           {" | "}
           <span>
-            <Link href="https://twitter.com/calvadev">Twitter</Link>
-          </span>
-          {" | "}
-          <span>
             <Link href="https://github.com/calvadev">GitHub</Link>
           </span>
           {" | "}
