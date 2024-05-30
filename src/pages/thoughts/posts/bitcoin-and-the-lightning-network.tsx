@@ -31,13 +31,13 @@ export default function bitcoinAndTheLightingNetwork() {
         <sup id="reference-1">
           <a href="#footnote-1">1</a>
         </sup>{" "}
-        proven to be an incredible store of value and investment, its use case
-        as a medium of exchange is rapidly evolving with the development of the
-        Lightning Network: a payment network built on top of the Bitcoin
+        proven to be an incredible store of value and investment, but its use
+        case as a medium of exchange is rapidly evolving with the development of
+        the Lightning Network, a payment network built on top of the Bitcoin
         blockchain. The Lightning Network was created with the goal of enabling
         instant settlements and transactions with little to no fees, using
         bitcoin as payment without having to make an on-chain transaction, which
-        is the most secure, but very time-consuming way of sending bitcoin to
+        is the most secure but very time-consuming way of sending bitcoin to
         someone.
       </p>
       <p className="ml-3 mb-6">
@@ -87,7 +87,7 @@ export default function bitcoinAndTheLightingNetwork() {
         Wallet Point-of-Sale machine (Chivo Wallet being the Bitcoin wallet
         developed by the government of El Salvador) and couldn’t figure out how
         to create a Lightning invoice to accept a Lightning payment. I
-        eventually had to settle with paying in cash. After that little setback,
+        eventually had to settle for paying in cash. After that little setback,
         I thought it would just be smooth sailing from there.
       </p>
       <p className="ml-3 mb-6">
@@ -128,12 +128,12 @@ export default function bitcoinAndTheLightingNetwork() {
       </p>
       <p className="ml-3 mb-6">
         Bitcoin allows the people of El Salvador to stop putting their trust in
-        the U.S. government and think long term to advance their country in a
+        the U.S. government and think long-term to advance their country in a
         way not possible before. With bitcoin appreciating in the range of 100%
         to 200% annually on average since its creation, anyone using bitcoin is
         incentivized to hold it, as their purchasing power has the possibility
         to increase substantially over time. If someone would rather invest
-        their bitcoin into a business or innovation they see appreciating in
+        their bitcoin in a business or innovation they see as appreciating in
         value greater than bitcoin itself, then that person is incentivized to
         thoroughly research and choose the best possible thing to invest in.
         Bitcoin’s limited supply makes it coveted to hold, so people holding it
@@ -150,8 +150,8 @@ export default function bitcoinAndTheLightingNetwork() {
         necessities over the years. The devaluation of the currency leads to
         excessive and unnecessary spending and investing that incentivizes
         taking huge risks in order to keep up with the loss in purchasing power
-        everyone experiences holding U.S. dollars, or any government controlled
-        fiat currency for that matter.
+        everyone experiences holding U.S. dollars, or any government-controlled
+        fiat currency, for that matter.
       </p>
       <p className="ml-3 mb-6">
         This expansion of the money supply also artificially increases the value
@@ -162,10 +162,10 @@ export default function bitcoinAndTheLightingNetwork() {
         paycheck.
       </p>
       <p className="ml-3 mb-6">
-        El Salvador is largely a cash-based economy, with a majority of its
+        El Salvador is largely a cash-based economy, with the majority of its
         citizens saving in dollars and not investing in assets, meaning that
-        each year Salvadoran’s are even worse off in terms of what they can buy
-        with their hard earned money. Bitcoin provides the people with the
+        each year Salvadorans are even worse off in terms of what they can buy
+        with their hard-earned money. Bitcoin provides the people with the
         opportunity to protect their purchasing power in a way not possible
         before, with an asset accessible anywhere in the world and without
         restriction. Even with governments attempting to ban or limit the usage
@@ -174,7 +174,7 @@ export default function bitcoinAndTheLightingNetwork() {
       </p>
       <p className="ml-3 mb-6">
         The other thing I noticed while I was in El Salvador was that not many
-        people are properly educated on how to transact using Bitcoin, the
+        people are properly educated on how to transact using Bitcoin, and the
         Lightning Network in particular. This, I think, is the biggest hindrance
         to Bitcoin adoption: people just don’t know enough, if anything, about
         it.
@@ -182,7 +182,7 @@ export default function bitcoinAndTheLightingNetwork() {
       <p className="ml-3 mb-6">
         If the Salvadoran government were to take the time to create and publish
         videos or guides educating its citizens on how to use its Chivo Wallet
-        software (or any Bitcoin wallet software, as anyone who wishes to, can
+        software (or any Bitcoin wallet software, as anyone who wishes to can
         use and implement the open-source code to run a Bitcoin or Lightning
         wallet)
         <sup id="reference-3">
@@ -194,16 +194,16 @@ export default function bitcoinAndTheLightingNetwork() {
       <p className="ml-3 mb-6">
         Adopting Bitcoin and Lightning allows the people of El Salvador to jump
         light years ahead of where they were in terms of payment infrastructure.
-        There isn’t even that many places in the country that accept card
+        There aren’t even that many places in the country that accept card
         payments, and most accounting is done with pen, paper, and a hand-held
         calculator. Lightning allows for the immediate recording of any
         transaction and provides many benefits for the merchant, allowing them
         to receive payments instantly from anywhere in the world without having
-        to deal with foreign exchange or payment processing fees; any individual
+        to deal with foreign exchange or payment processing fees. Any individual
         or entity is also able to instantly send money globally without having
         to deal with up-charges or additional fees as well. It’s only a matter
-        of time until the entirety of El Salvador, and the rest of the world,
-        catches on.
+        of time until the entirety of El Salvador, as well as the rest of the
+        world, catch on.
       </p>
       <h1 className="py-2 px-3 text-xl">
         <strong>The Best Money in Miami</strong>
@@ -211,17 +211,17 @@ export default function bitcoinAndTheLightingNetwork() {
       <p className="ml-3 mb-6">
         The Bitcoin Conference in Miami last month was the only other place
         where I’ve been able to physically purchase things using bitcoin, and it
-        couldn’t have been more seamless. Unlike El Salvador where adoption and
-        understanding of Bitcoin is limited, the conference was full of people
+        couldn’t have been more seamless. Unlike El Salvador, where adoption and
+        understanding of Bitcoin are limited, the conference was full of people
         who are incredibly passionate about Bitcoin and its increased use.
       </p>
       <p className="ml-3 mb-6">
         While I was there, I was able to buy food and drinks from food trucks
-        and booths, as well as merchandise and other souvenirs without hassle.
-        Every merchant was already knowledgable about how to request payments
+        and booths, as well as merchandise and other souvenirs, without hassle.
+        Every merchant was already knowledgeable about how to request payments
         using their wallet software of choice, and people from all over the
         world were able to buy things without having to exchange their national
-        currency into Dollars and incur forex fees just to buy a burger.
+        currency into dollars and incur forex fees just to buy a burger.
       </p>
       <p className="ml-3 mb-6">
         As I saw and experienced, Bitcoin is the most open monetary network in
@@ -243,44 +243,43 @@ export default function bitcoinAndTheLightingNetwork() {
         investment and currency.
       </p>
       <p className="ml-3 mb-6">
-        Already, however, it is becoming even easier to interact and use bitcoin
-        and the Lightning Network for everyday purchases. Bitrefill, a company
-        that helps people live off of crypto, recently added a service to pay
-        your utility bills with bitcoin, on top of already offering you the
-        ability to pay for travel, groceries, your phone bill, and more with
+        Already, however, it is becoming even easier to interact with and use
+        bitcoin and the Lightning Network for everyday purchases. Bitrefill, a
+        company that helps people live off of crypto, recently added a service
+        to pay your utility bills with bitcoin, on top of already offering you
+        the ability to pay for travel, groceries, your phone bill, and more with
         bitcoin. The Central African Republic also recently adopted bitcoin as
         legal tender, greatly increasing global financial inclusion for its
-        citizens who have been living under an oppressive financial system
-        restricting them from global trade and limiting their societal
-        development.
+        citizens, who have been living under an oppressive financial system that
+        restricts them from global trade and limits their societal development.
       </p>
       <p className="ml-3 mb-6">
         Strike, a Bitcoin payment company, also announced an integration with
-        Blackhawk and NCR, the worlds largest Point-of-Sale provider, that is
+        Blackhawk and NCR, the world's largest point-of-sale provider, that is
         planned to be rolled out before the end of the year. That means that
         soon merchants such as Walmart, Whole Foods, McDonald’s, CVS, and many
         more will be able to accept Lightning payments, and they don’t even have
         to be exposed to bitcoin if they don’t want to. A merchant will be able
-        to instantly convert their bitcoin into whatever currency they wish,
-        without worry of dealing with expensive processing fees or taking a tax
-        hit. Likewise, a consumer doesn’t even have to send bitcoin to pay, they
-        can send whatever currency they choose to while having it be converted
-        to a merchant’s currency of choice.
+        to instantly convert their bitcoin into whatever currency they wish
+        without worrying about dealing with expensive processing fees or taking
+        a tax hit. Likewise, a consumer doesn’t even have to send bitcoin to
+        pay; they can send whatever currency they choose while having it
+        converted to a merchant’s currency of choice.
       </p>
       <p className="ml-3 mb-6">
-        In terms of price, or rather purchasing power, bitcoin is also bound to
+        In terms of price, or rather, purchasing power, bitcoin is also bound to
         reach meteoric heights. Just look at Metcalfe’s law and the law of
-        supply and demand: as more users choose to join the Bitcoin network, and
+        supply and demand: as more users choose to join the Bitcoin network and
         as demand for bitcoin increases with its fixed supply, its value can
         only go up, and exponentially so.
       </p>
       <p className="ml-3 mb-6">
         It is becoming more and more clear that Bitcoin is superior to any
         monetary network in place today. It is becoming easier for merchants and
-        consumers to be tapped into the most open and global monetary network to
-        have ever existed, benefitting everyone who chooses to use it in the
-        process. I can’t say for sure what’s in store for Bitcoin, but I do know
-        one thing: It’s going to be a wild ride!
+        consumers to tap into the most open and global monetary network to have
+        ever existed, benefiting everyone who chooses to use it in the process.
+        I can’t say for sure what’s in store for Bitcoin, but I do know one
+        thing: It’s going to be a wild ride!
       </p>
       <hr className="my-6" />
       <div className="footnotes ml-10">
@@ -297,8 +296,8 @@ export default function bitcoinAndTheLightingNetwork() {
           <a href="#reference-2">
             <li id="footnote-2" className="mb-3">
               <em>
-                I have heard from many people that El Zonte, or Bitcoin Beach as
-                it is sometimes referred to, actually has a thriving Bitcoin
+                I have heard from many people that El Zonte, or Bitcoin Beach,
+                as it is sometimes referred to, actually has a thriving Bitcoin
                 economy where everyone, including street vendors, accepts
                 bitcoin. Sadly, I did not have the opportunity to visit while I
                 was in El Salvador, so I don’t have any experience validating
