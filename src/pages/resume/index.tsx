@@ -7,6 +7,55 @@ export default function resume() {
         <strong>Experience:</strong>
       </h1>
       <div className="py-1 px-3 mb-3">
+        <Link href="https://www.salesforce.com/">Salesforce</Link>
+        {" | "}
+        <em>Software Engineer Associate Member of Technical Staff</em>
+        {" | "}
+        <em>Aug 2023 - Apr 2024</em>
+        {" | "}
+        <em>Seattle, Washington, United States</em>
+        <ul className="ml-4">
+          <li>
+            - Streamlined the pipeline for data associated with internal and
+            external tenant jobs using <strong>Python</strong> and{" "}
+            <strong>SQL</strong> in an agile scrum environment
+          </li>
+          <li>
+            - Worked with <strong>Tableau</strong> to create visualizations,
+            find discrepancies, and deliver reports across teams on cost and
+            usage data
+          </li>
+          <li>
+            - Handled the weekly release process for an internal VSCode and
+            IntelliJ plugin using <strong>Beyond Compare</strong>, Salesforce
+            org testing environments, <strong>Gradle</strong>, and{" "}
+            <strong>Jenkins</strong>
+          </li>
+          <li>
+            - Used <strong>TypeScript</strong> to update the plugin to more
+            properly record telemetry, require internal SSO, and improve
+            functionality
+          </li>
+        </ul>
+      </div>
+      <div className="py-1 px-3 mb-3">
+        <Link href="https://www.amazon.com/">Amazon</Link>
+        {" | "}
+        <em>Software Development Engineer I</em>
+        {" | "}
+        <em>Jan 2024 - Mar 2024</em>
+        {" | "}
+        <em>Bellevue, Washington, United States</em>
+        <ul className="ml-4">
+          <li>
+            - Focused on migrating <strong>AWS Lambda</strong> functions used in
+            tracking validation from a beta AWS environment through a proper
+            review process
+          </li>
+          <li>- Updated available shipping nodes for retailers</li>
+        </ul>
+      </div>
+      <div className="py-1 px-3 mb-3">
         <Link href="https://www.commenda.io/">Commenda</Link>
         {" | "}
         <em>Software Development Engineer Intern</em>
