@@ -7,13 +7,25 @@ export default function resume() {
         <strong>Experience:</strong>
       </h1>
       <div className="py-1 px-3 mb-3">
+        <Link href="https://shopstr.store/">Shopstr</Link>
+        {" | "}
+        <em>Co-founder & CEO</em>
+        {" | "}
+        <em>Apr 2024 - Present</em>
+        {" | "}
+        🌎 <em>(Remote)</em>
+        <ul className="ml-4">
+          <li>- Building a truly free market</li>
+        </ul>
+      </div>
+      <div className="py-1 px-3 mb-3">
         <Link href="https://www.salesforce.com/">Salesforce</Link>
         {" | "}
         <em>Software Engineer Associate Member of Technical Staff</em>
         {" | "}
         <em>Aug 2023 - Apr 2024</em>
         {" | "}
-        <em>Seattle, Washington, United States</em>
+        <em>Bellevue, Washington, United States</em>
         <ul className="ml-4">
           <li>
             - Streamlined the pipeline for data associated with internal and
