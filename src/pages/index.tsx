@@ -40,7 +40,7 @@ export default function About() {
             U.S.A.
           </li>
           <li>- I know English, Spanish, and have been learning Portuguese</li>
-          <li>- I have been to 16 countries across 3 continents</li>
+          <li>- I have been to 17 countries across 3 continents</li>
           <li>
             - My favorite books are Zero to One, Great Expectations, Animal
             Farm, The Network State, and The Creative Act
