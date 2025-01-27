@@ -9,7 +9,7 @@ export default function resume() {
       <div className="py-1 px-3 mb-3">
         <Link href="https://shopstr.store/">Shopstr</Link>
         {" | "}
-        <em>Co-founder & CEO</em>
+        <em>Founder & CEO</em>
         {" | "}
         <em>Apr 2024 - Present</em>
         {" | "}
