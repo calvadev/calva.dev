@@ -7,8 +7,7 @@ export default function About() {
       <p className="py-1 px-3 mb-3">
         I am the CEO and founder of{" "}
         <Link href="https://shopstr.store/">Shopstr</Link>, a Nostr marketplace
-        client focused on facilitating anonymous, p2p transactions using Bitcoin
-        and ecash.
+        client focused on facilitating private, p2p transactions using Bitcoin.
       </p>
       <p className="py-1 px-3 mb-3">
         My focus has been on contributing to freedom tech, particularly Bitcoin
