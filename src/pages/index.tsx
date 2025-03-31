@@ -5,7 +5,7 @@ export default function About() {
     <div className="w-full h-full p-3">
       <p className="py-1 px-3 mb-3">Hi 👋, I&apos;m calvadev!</p>
       <p className="py-1 px-3 mb-3">
-        I am the CEO and founder of{" "}
+        I am the Founder and CEO of{" "}
         <Link href="https://shopstr.store/">Shopstr</Link>, a Nostr marketplace
         client focused on facilitating private, p2p transactions using Bitcoin.
       </p>
@@ -39,7 +39,7 @@ export default function About() {
             U.S.A.
           </li>
           <li>- I know English, Spanish, and have been learning Portuguese</li>
-          <li>- I have been to 19 countries across 4 continents</li>
+          <li>- I have been to 21 countries across 4 continents</li>
           <li>
             - My favorite books are Zero to One, Great Expectations, Animal
             Farm, The Network State, and The Creative Act
