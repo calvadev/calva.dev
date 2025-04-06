@@ -1,12 +1,12 @@
-run = "cd src && npm run dev"
+run = "npm run dev"
 
 [nix]
 channel = "stable-22_11"
 
 [deployment]
-run = ["sh", "-c", "cd src && npm run start"]
+run = ["sh", "-c", "npm run start"]
 deploymentTarget = "cloudrun"
-build = ["sh", "-c", "cd src && npm run build"]
+build = ["sh", "-c", "npm run build"]
 
 [[ports]]
 localPort = 3000
