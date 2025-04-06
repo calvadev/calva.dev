@@ -255,8 +255,8 @@ export default function bitcoinAndTheLightingNetwork() {
       </p>
       <p className="ml-3 mb-6">
         Strike, a Bitcoin payment company, also announced an integration with
-        Blackhawk and NCR, the world&apos;s largest point-of-sale provider, that is
-        planned to be rolled out before the end of the year. That means that
+        Blackhawk and NCR, the world&apos;s largest point-of-sale provider, that
+        is planned to be rolled out before the end of the year. That means that
         soon merchants such as Walmart, Whole Foods, McDonald’s, CVS, and many
         more will be able to accept Lightning payments, and they don’t even have
         to be exposed to bitcoin if they don’t want to. A merchant will be able

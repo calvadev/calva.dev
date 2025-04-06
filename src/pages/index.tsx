@@ -46,8 +46,8 @@ export default function About() {
           </li>
           <li>
             - My favorite movies are The Shawshank Redemption, The Social
-            Network, The Big Short, Once Upon a Time in Hollywood, and One Flew Over
-            the Cuckoo&apos;s Nest
+            Network, The Big Short, Once Upon a Time in Hollywood, and One Flew
+            Over the Cuckoo&apos;s Nest
           </li>
           <li>
             - My favorite shows are The Rehearsal, BoJack Horseman, Fargo,
