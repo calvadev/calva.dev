@@ -34,7 +34,7 @@ export default function thoughts() {
               height="315"
               src="https://www.youtube.com/embed/wYaw3C7k_yo?si=zDm5I1vpd1sODzYZ"
               title="YouTube video player"
-              frameborder="0"
+              frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               referrerpolicy="strict-origin-when-cross-origin"
               allowfullscreen
@@ -49,7 +49,7 @@ export default function thoughts() {
               height="315"
               src="https://www.youtube.com/embed/tx3Pw3Ap_88?si=zh-6km2ny_8bEd2Z"
               title="YouTube video player"
-              frameborder="0"
+              frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               referrerpolicy="strict-origin-when-cross-origin"
               allowfullscreen
@@ -64,7 +64,7 @@ export default function thoughts() {
               height="315"
               src="https://www.youtube.com/embed/eRgHb8BGs18?si=VRovVTuWx7gQKHQs&amp;start=17045"
               title="YouTube video player"
-              frameborder="0"
+              frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               referrerpolicy="strict-origin-when-cross-origin"
               allowfullscreen
@@ -82,7 +82,7 @@ export default function thoughts() {
               height="315"
               src="https://www.youtube.com/embed/SoPiNp83I78?si=6sheAf_S87MWUrDB"
               title="YouTube video player"
-              frameborder="0"
+              frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               referrerpolicy="strict-origin-when-cross-origin"
               allowfullscreen
@@ -97,7 +97,7 @@ export default function thoughts() {
               height="315"
               src="https://www.youtube.com/embed/wPZo6cYBleE?si=TtZQ7yvO5qyHjRQ4"
               title="YouTube video player"
-              frameborder="0"
+              frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               referrerpolicy="strict-origin-when-cross-origin"
               allowfullscreen
@@ -114,7 +114,7 @@ export default function thoughts() {
               height="315"
               src="https://www.youtube.com/embed/KD735kbjLZ0?si=Mn1k9ieWNA60W9ZN"
               title="YouTube video player"
-              frameborder="0"
+              frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               referrerpolicy="strict-origin-when-cross-origin"
               allowfullscreen
@@ -129,7 +129,7 @@ export default function thoughts() {
               height="315"
               src="https://www.youtube.com/embed/Tupe63Y8UT4?si=Qs-yv9Jt0woDW6Hr"
               title="YouTube video player"
-              frameborder="0"
+              frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               referrerpolicy="strict-origin-when-cross-origin"
               allowfullscreen
