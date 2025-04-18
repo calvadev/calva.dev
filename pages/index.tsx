@@ -5,7 +5,7 @@ export default function About() {
     <div className="w-full h-full p-3">
       <p className="py-1 px-3 mb-3">Hi 👋, I&apos;m calvadev!</p>
       <p className="py-1 px-3 mb-3">
-        I am the Founder and CEO of{" "}
+        I am the founder and CEO of{" "}
         <Link href="https://shopstr.store/">Shopstr</Link>, a Nostr marketplace
         client focused on facilitating private, p2p transactions using Bitcoin.
       </p>

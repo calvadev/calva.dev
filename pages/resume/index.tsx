@@ -15,7 +15,27 @@ export default function resume() {
         {" | "}
         🌎 <em>(Remote)</em>
         <ul className="ml-4">
-          <li>- Building a truly free market</li>
+          <li>
+            - Building a permissionless marketplace utilizing the{" "}
+            <strong>Nostr</strong> protocol with Bitcoin as the native payment
+            rail
+          </li>
+          <li>
+            - Working with <strong>Cashu</strong> and the{" "}
+            <strong>Lightning Network</strong> to facilitate instant, anonymized
+            cross-border payments
+          </li>
+          <li>
+            - Scaled up to over 0.1 BTC worth of sales volume with over 350 DAUs
+            organically
+          </li>
+          <li>
+            - Participating in and leading parts of the{" "}
+            <Link href="https://sovereignengineering.io/">
+              Sovereign Engineering
+            </Link>{" "}
+            program since the second cohort
+          </li>
         </ul>
       </div>
       <div className="py-1 px-3 mb-3">
@@ -25,7 +45,7 @@ export default function resume() {
         {" | "}
         <em>Aug 2023 - Apr 2024</em>
         {" | "}
-        <em>Bellevue, Washington, United States</em>
+        <em>Bellevue, Washington, United States (Hybrid)</em>
         <ul className="ml-4">
           <li>
             - Streamlined the pipeline for data associated with internal and
@@ -57,7 +77,7 @@ export default function resume() {
         {" | "}
         <em>Jan 2024 - Mar 2024</em>
         {" | "}
-        <em>Bellevue, Washington, United States</em>
+        <em>Bellevue, Washington, United States (Hybrid)</em>
         <ul className="ml-4">
           <li>
             - Focused on migrating <strong>AWS Lambda</strong> functions used in
@@ -74,7 +94,7 @@ export default function resume() {
         {" | "}
         <em>Aug 2022 - Apr 2023</em>
         {" | "}
-        <em>Bengaluru, Karnataka, India (Remote)</em>
+        <em>Bengaluru, Karnataka, India (Hybrid)</em>
         <ul className="ml-4">
           <li>
             - Contributed to building a web-based software suite to make it
@@ -297,29 +317,6 @@ export default function resume() {
       <h1 className="py-2 px-3 text-xl">
         <strong>Projects:</strong>
       </h1>
-      <div className="py-1 px-3 mb-3">
-        <Link href="https://shopstr.store/">Shopstr</Link>
-        {" | "}
-        <em>Apr 2023 - Present</em>
-        <ul className="ml-4">
-          <li>
-            - Building a decentralized marketplace utilizing the{" "}
-            <strong>Nostr</strong> protocol with Bitcoin as the native payment
-            rail
-          </li>
-          <li>
-            - Developing an API and UI with <strong>TypeScript</strong> and{" "}
-            <strong>React</strong> that interacts with Nostr relays to handle
-            account management and note propagation
-          </li>
-          <li>
-            - Working with <strong>Cashu</strong> and the{" "}
-            <strong>Lightning Network</strong> to facilitate instant, anonymized
-            cross-border payments
-          </li>
-          <li>- Designing a native wallet to simplify payment UX</li>
-        </ul>
-      </div>
       <div className="py-1 px-3 mb-3">
         <strong>Network Down-Converter Plug</strong>
         {" | "}
