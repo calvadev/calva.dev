@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function resume() {
+export default function pow() {
   return (
     <div className="w-full h-full p-3">
       <h1 className="py-2 px-3 text-xl">

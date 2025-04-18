@@ -33,7 +33,7 @@ export default function Document() {
           </span>
           {" | "}
           <span>
-            <Link href="/resume">Resume</Link>
+            <Link href="/pow">PoW</Link>
           </span>
           {" | "}
           <span>
