@@ -15,10 +15,6 @@ export default function Document() {
           </span>
           {" | "}
           <span>
-            <Link href="https://shopstr.store">Shopstr</Link>
-          </span>
-          {" | "}
-          <span>
             <Link href="/thoughts">Thoughts</Link>
           </span>
           {" | "}
@@ -30,6 +26,10 @@ export default function Document() {
           {" | "}
           <span>
             <Link href="mailto:calvadev@reacher.me">Email</Link>
+          </span>
+          {" | "}
+          <span>
+            <Link href="https://cal.com/calvadev">Cal.com</Link>
           </span>
           {" | "}
           <span>
