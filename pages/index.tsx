@@ -6,9 +6,9 @@ export default function About() {
       <p className="py-1 px-3 mb-3">Hi 👋, I&apos;m calvadev!</p>
       <p className="py-1 px-3 mb-3">
         I am the founder and CEO of{" "}
-        <Link href="https://shopstr.store/">Shopstr</Link>, a Nostr marketplace
-        client focused on facilitating private, permissionless transactions
-        using Bitcoin.
+        <Link href="https://shopstrmarkets.com/">Shopstr Markets</Link>, a Nostr
+        marketplace service that facilitates private, permissionless
+        transactions using Bitcoin.
       </p>
       <p className="py-1 px-3 mb-3">
         My focus has been on growing the free market and making open commerce

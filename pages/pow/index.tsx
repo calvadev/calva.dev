@@ -7,7 +7,7 @@ export default function pow() {
         <strong>Experience:</strong>
       </h1>
       <div className="py-1 px-3 mb-3">
-        <Link href="https://shopstr.store/">Shopstr</Link>
+        <Link href="https://shopstrmarkets.com/">Shopstr Markets</Link>
         {" | "}
         <em>Founder & CEO</em>
         {" | "}
@@ -16,7 +16,7 @@ export default function pow() {
         🌎 <em>(Remote)</em>
         <ul className="ml-4">
           <li>
-            - Building a permissionless marketplace utilizing the{" "}
+            - Building permissionless marketplaces utilizing the{" "}
             <strong>Nostr</strong> protocol with Bitcoin as the native payment
             rail
           </li>
