@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function bitcoinAndTheLightingNetwork() {
   return (
     <div className="w-full h-full p-3">
@@ -8,7 +10,13 @@ export default function bitcoinAndTheLightingNetwork() {
         My experience using the greatest monetary network in the world
       </h1>
       <div className="w-1/2 mx-auto my-4">
-        <img alt="" src="../../bitcoin-and-the-lightning-network.jpg" />
+        <Image
+          alt=""
+          src="/bitcoin-and-the-lightning-network.jpg"
+          width={600}
+          height={400}
+          style={{ width: "100%", height: "auto" }}
+        />
       </div>
       <h1 className="py-2 px-3 text-xl">
         <strong>Bitcoin vs Banks</strong>

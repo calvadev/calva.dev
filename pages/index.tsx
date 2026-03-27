@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export default function About() {
   return (
@@ -30,7 +31,13 @@ export default function About() {
         it.
       </p>
       <div className="w-1/2 mx-auto my-4">
-        <img alt="" src="/calvadev.jpg" />
+        <Image
+          alt=""
+          src="/calvadev.jpg"
+          width={600}
+          height={400}
+          style={{ width: "100%", height: "auto" }}
+        />
       </div>
       <div className="py-1 px-3 mb-3">
         Some facts about me:

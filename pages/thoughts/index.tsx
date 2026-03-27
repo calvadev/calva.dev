@@ -43,8 +43,8 @@ export default function thoughts() {
         </div>
         <div className="video-container">
           <h3 className="mb-2">
-            - GRM'S DIARY: Why He Quit Amazon to Build his ‘Own Marketplace’ on
-            Bitcoin
+            - GRM&apos;S DIARY: Why He Quit Amazon to Build his &apos;Own
+            Marketplace&apos; on Bitcoin
           </h3>
           <div className="relative pb-[56.25%] h-0">
             <iframe
