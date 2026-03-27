@@ -27,6 +27,74 @@ export default function thoughts() {
       </h1>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 p-3">
         <div className="video-container">
+          <h3 className="mb-2">- Bitcoin Study Sessions: The Milk Road</h3>
+          <div className="relative pb-[56.25%] h-0">
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/-6YVNYN871I?si=VjqalFzabnq3gFY0"
+              title="YouTube video player"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerPolicy="strict-origin-when-cross-origin"
+              allowFullScreen
+            ></iframe>
+          </div>
+        </div>
+        <div className="video-container">
+          <h3 className="mb-2">
+            - GRM'S DIARY: Why He Quit Amazon to Build his ‘Own Marketplace’ on
+            Bitcoin
+          </h3>
+          <div className="relative pb-[56.25%] h-0">
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/GUtrNrM6K5I?si=W4j2LaO0BjTxQxxH"
+              title="YouTube video player"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerPolicy="strict-origin-when-cross-origin"
+              allowFullScreen
+            ></iframe>
+          </div>
+        </div>
+        <div className="video-container">
+          <h3 className="mb-2">
+            - Bitcoin Hong Kong: Building Bitcoin Use Cases and Online
+            Communities with Nostr
+          </h3>
+          <div className="relative pb-[56.25%] h-0">
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/1QNdvhaycDQ?si=6fxIUfggQWrRcXiU"
+              title="YouTube video player"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerPolicy="strict-origin-when-cross-origin"
+              allowFullScreen
+            ></iframe>
+          </div>
+        </div>
+        <div className="video-container">
+          <h3 className="mb-2">
+            - B4E 2025: Networks, Nostr, and the New Frontier
+          </h3>
+          <div className="relative pb-[56.25%] h-0">
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/sfJCB9fjaLU?si=D6reRrOzJLbC0Zrf"
+              title="YouTube video player"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerPolicy="strict-origin-when-cross-origin"
+              allowFullScreen
+            ></iframe>
+          </div>
+        </div>
+        <div className="video-container">
           <h3 className="mb-2">- Top Builder Season II Final Round: Shopstr</h3>
           <div className="relative pb-[56.25%] h-0">
             <iframe
