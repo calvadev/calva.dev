@@ -61,8 +61,8 @@ export default function thoughts() {
         </div>
         <div className="video-container">
           <h3 className="mb-2">
-            - Bitcoin Hong Kong: Building Bitcoin Use Cases and Online
-            Communities with Nostr
+            - Bitcoin Asia: Building Bitcoin Use Cases and Online Communities
+            with Nostr
           </h3>
           <div className="relative pb-[56.25%] h-0">
             <iframe
