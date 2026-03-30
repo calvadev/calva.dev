@@ -18,9 +18,9 @@ export default function About() {
         what make us who we are. Key in that, the daily inputs we put into our
         bodies, mind, and soul are the foundation, which is why I see open food
         access and the fostering of local circular economies as the most
-        important problem to tackle in our world today. You'd be hard-pressed to
-        find someone who doesn't eat food or engage in commerce on a daily
-        basis.
+        important problem to tackle in our world today. You&apos;d be
+        hard-pressed to find someone who doesn&apos;t eat food or engage in
+        commerce on a daily basis.
       </p>
       <p className="py-1 px-3 mb-3">
         Information yearns to be free, and the most impactful and high-signal
