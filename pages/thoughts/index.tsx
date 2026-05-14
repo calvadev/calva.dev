@@ -27,6 +27,23 @@ export default function thoughts() {
       </h1>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 p-3">
         <div className="video-container">
+          <h3 className="mb-2">
+            - Sovereign E-Commerce Payments & Platforms | Bitcoin 2026
+          </h3>
+          <div className="relative pb-[56.25%] h-0">
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/lYpSPhHlMtY?si=2i2ZjdbAkFs9OV9p"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerpolicy="strict-origin-when-cross-origin"
+              allowfullscreen
+            ></iframe>
+          </div>
+        </div>
+        <div className="video-container">
           <h3 className="mb-2">- Bitcoin Study Sessions: The Milk Road</h3>
           <div className="relative pb-[56.25%] h-0">
             <iframe
