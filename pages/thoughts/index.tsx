@@ -28,7 +28,7 @@ export default function thoughts() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 p-3">
         <div className="video-container">
           <h3 className="mb-2">
-            - Sovereign E-Commerce Payments & Platforms | Bitcoin 2026
+            - Bitcoin 2026 Las Vegas: Sovereign E-Commerce Payments & Platforms
           </h3>
           <div className="relative pb-[56.25%] h-0">
             <iframe
