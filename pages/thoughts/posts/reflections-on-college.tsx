@@ -1,6 +1,15 @@
+import Head from "next/head";
+
 export default function reflectionsOnCollege() {
   return (
     <div className="w-full h-full p-3">
+      <Head>
+        <title>Reflections On College | calvadev</title>
+        <meta
+          name="description"
+          content="Reflections on college — or whether or not it's worth it."
+        />
+      </Head>
       <h1 className="py-2 px-3 text-xl">
         <strong>Reflections On College</strong>
       </h1>

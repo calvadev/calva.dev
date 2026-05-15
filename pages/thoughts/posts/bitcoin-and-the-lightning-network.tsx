@@ -1,8 +1,16 @@
+import Head from "next/head";
 import Image from "next/image";
 
 export default function bitcoinAndTheLightingNetwork() {
   return (
     <div className="w-full h-full p-3">
+      <Head>
+        <title>Bitcoin and the Lightning Network | calvadev</title>
+        <meta
+          name="description"
+          content="My experience using the greatest monetary network in the world — from El Salvador to Miami."
+        />
+      </Head>
       <h1 className="py-2 px-3 text-xl">
         <strong>Bitcoin and the Lightning Network</strong>
       </h1>

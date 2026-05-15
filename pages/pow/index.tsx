@@ -1,8 +1,16 @@
+import Head from "next/head";
 import Link from "next/link";
 
 export default function pow() {
   return (
     <div className="w-full h-full p-3">
+      <Head>
+        <title>Proof of Work | calvadev</title>
+        <meta
+          name="description"
+          content="Experience, projects, and proof of work — calvadev."
+        />
+      </Head>
       <h1 className="py-2 px-3 text-xl">
         <strong>Experience:</strong>
       </h1>

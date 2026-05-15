@@ -1,8 +1,16 @@
+import Head from "next/head";
 import Link from "next/link";
 
 export default function thoughts() {
   return (
     <div className="w-full h-full p-3">
+      <Head>
+        <title>Thoughts | calvadev</title>
+        <meta
+          name="description"
+          content="Sauna logs, blog posts, talks, pitches, and podcasts by calvadev."
+        />
+      </Head>
       <h1 className="py-2 px-3 text-xl">
         <strong>Blog Posts:</strong>
       </h1>

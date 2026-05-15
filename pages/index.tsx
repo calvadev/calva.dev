@@ -1,9 +1,17 @@
+import Head from "next/head";
 import Link from "next/link";
 import Image from "next/image";
 
 export default function About() {
   return (
     <div className="w-full h-full p-3">
+      <Head>
+        <title>calvadev</title>
+        <meta
+          name="description"
+          content="calvadev — founder of Shopstr Markets, building open peer-to-peer commerce on Bitcoin and Nostr."
+        />
+      </Head>
       <p className="py-1 px-3 mb-3">Hi 👋, I&apos;m calvadev!</p>
       <p className="py-1 px-3 mb-3">
         Commerce cowboy, free market maximalist, nurture capitalist, and
